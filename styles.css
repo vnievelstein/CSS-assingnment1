@@ -1,0 +1,19 @@
+body { 
+   color: rgb(130, 96, 233);
+   background-color: #b7cade;
+   background-image: url(img/achtrgrond.jpg);
+}
+.lblue-border {
+   border: 3px solid rgb(169, 225, 251);
+}
+#lgreen-background{
+   background-color: rgb(192, 227, 192);
+}
+.darkblue-text{
+   color: blue;
+   font-family: sans-serif, Arial, Helvetica;
+   font-size: larger;
+}
+.lblue-background{
+   background-color: rgb(179, 197, 235);
+}
